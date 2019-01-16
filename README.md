@@ -1,4 +1,4 @@
-# franz-rh-rover
+# franz-siriusxm
 
 # Red Hat SiriusXM Franz Plugin
 
