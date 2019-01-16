@@ -1,0 +1,24 @@
+
+{
+    "id": "siriusxm",
+    "name": "SiriusXM",
+    "version": "1.0.0",
+    "description": "siriusxm",
+    "main": "index.js",
+    "author": "Brian Jarvis",
+    "license": "GPL",
+    "config": {
+      "serviceURL": "https://player.siriusxm.com/home/foryou/",
+      "serviceName": "SiriusXM",
+      "message": "SiriusXM",
+      "popup": [],
+      "hasNotificationSound": false,
+      "hasIndirectMessages": false,
+      "customURL": false,
+      "hasTeamID": false,
+      "webviewOptions": {
+        "disablewebsecurity": ""
+      },
+      "openDevTools": false
+    }
+  }
